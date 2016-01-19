@@ -1,0 +1,5 @@
+Courtesy of the programmer, we welcome you to the program!
+Watch a computer create a maze and solve it within a blink of an eye.
+If you want the computer to create a maze, simply press “Create Maze.” 
+After the computer has completed the maze, you can choose to “Solve Maze.” 
+Happy Watching!
